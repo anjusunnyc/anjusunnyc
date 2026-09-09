@@ -1,18 +1,94 @@
-# 💫 About Me:
-👋 Hi, I'm Anju Sunny Chungath – an AI & Data Science student with 3 years of experience as a Data Analyst in the financial sector.<br>💡 I’m passionate about building scalable machine learning models and leveraging data to solve real-world problems.<br>🔍 My work includes credit risk modeling on AWS, real-time health tracking apps, and customer churn prediction dashboards.<br>🧠 Current interests: Deep Learning, MLOps, and GenAI.<br>📊 Tools & Tech I use: Python, SQL, scikit-learn, TensorFlow, Power BI, and Git.<br><br>🚀 Always learning, always building.<br>📫 Reach me at anjusunnyv@gmail.com or connect on https://linkedin.com/in/anjusunnyc.
+# Hi, I'm Anju Sunny Chungath
 
+## Data Engineer | Data Analytics | Machine Learning
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjusunnyv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/anjusunnyc) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Anjusunnyv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjusunnyv@gmail.com) 
+I am a data professional with experience in **data analytics and machine learning**, currently focused on building end-to-end **data engineering solutions on Azure and Databricks**.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anjusunnyc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anjusunnyc&theme=dark&hide_border=false)<br/>
+My recent work includes designing cloud data pipelines, implementing Bronze-Silver-Gold architectures, processing large datasets with Spark, building analytical layers with SQL, and creating Power BI dashboards for business insights. I also have prior hands-on experience developing machine learning solutions for use cases such as credit risk modeling, customer churn prediction, and predictive analytics.
+
+## Current Focus
+
+- Data Engineering on Microsoft Azure
+- Azure Databricks and Apache Spark
+- Azure Synapse Analytics
+- ADLS Gen2 and Delta Lake
+- ETL / ELT pipeline development
+- Batch and near-real-time processing
+- Data quality and transformation using PySpark and SQL
+- Power BI and semantic modeling
+- Machine Learning and predictive analytics
+
+## Certifications
+
+- **AWS Certified Machine Learning Engineer – Associate**
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
+
+## Featured Data Engineering Projects
+
+### NYC Taxi & Weather Impact Analytics
+End-to-end Azure Databricks Lakehouse project combining historical NYC taxi data with historical and near-real-time weather data.
+
+Key technologies:
+
+`Azure Databricks` `ADLS Gen2` `Apache Spark` `PySpark` `Delta Lake` `Unity Catalog` `Auto Loader` `Structured Streaming` `Databricks Workflows` `Azure Key Vault` `Power BI`
+
+Repository: https://github.com/anjusunnyc/nyc-taxi-weather-analytics
+
+### UK Retail Azure Data Engineering
+End-to-end retail data engineering solution using Azure Synapse Analytics to process transaction, customer, product, and inventory data through a Bronze-Silver-Gold architecture.
+
+Key technologies:
+
+`Azure Synapse Analytics` `Synapse Spark` `Serverless SQL` `ADLS Gen2` `PySpark` `SQL` `Parquet` `Synapse Pipelines` `Power BI`
+
+Repository: https://github.com/anjusunnyc/uk-retail-azure-data-engineering
+
+## Machine Learning Experience
+
+My background also includes machine learning and data science work using:
+
+- Python
+- scikit-learn
+- TensorFlow / Keras
+- PyTorch
+- Pandas / NumPy
+- MLflow
+- Classification and predictive modeling
+- Credit risk modeling
+- Customer churn analysis
+
+This ML experience complements my current data engineering focus by helping me understand the complete lifecycle from **data ingestion and transformation to analytics and machine learning consumption**.
+
+## Tech Stack
+
+### Data Engineering
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Machine Learning
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+## Connect with Me
+
+- LinkedIn: https://linkedin.com/in/anjusunnyc
+- GitHub: https://github.com/anjusunnyc
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anjusunnyc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjusunnyc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=anjusunnyc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
